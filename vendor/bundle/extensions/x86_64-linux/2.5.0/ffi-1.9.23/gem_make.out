@@ -1,5 +1,5 @@
-current directory: /mnt/Data/Mega/code/w3maktab.github.io/vendor/bundle/gems/ffi-1.9.23/ext/ffi_c
-/usr/bin/ruby2.5 -r ./siteconf20180504-14974-1e595x.rb extconf.rb
+current directory: /mnt/Data/Mega/code/w4maktab.github.io/vendor/bundle/gems/ffi-1.9.23/ext/ffi_c
+/usr/bin/ruby2.5 -r ./siteconf20180504-24724-1g4nhfx.rb extconf.rb
 checking for ffi_call() in -lffi... yes
 checking for ffi_closure_alloc()... yes
 checking for ffi_raw_call()... yes
@@ -12,10 +12,10 @@ checking for ffi_prep_cif_var()... yes
 creating extconf.h
 creating Makefile
 
-current directory: /mnt/Data/Mega/code/w3maktab.github.io/vendor/bundle/gems/ffi-1.9.23/ext/ffi_c
+current directory: /mnt/Data/Mega/code/w4maktab.github.io/vendor/bundle/gems/ffi-1.9.23/ext/ffi_c
 make "DESTDIR=" clean
 
-current directory: /mnt/Data/Mega/code/w3maktab.github.io/vendor/bundle/gems/ffi-1.9.23/ext/ffi_c
+current directory: /mnt/Data/Mega/code/w4maktab.github.io/vendor/bundle/gems/ffi-1.9.23/ext/ffi_c
 make "DESTDIR="
 compiling AbstractMemory.c
 compiling ArrayType.c
@@ -59,6 +59,6 @@ compiling Variadic.c
 compiling ffi.c
 linking shared-object ffi_c.so
 
-current directory: /mnt/Data/Mega/code/w3maktab.github.io/vendor/bundle/gems/ffi-1.9.23/ext/ffi_c
+current directory: /mnt/Data/Mega/code/w4maktab.github.io/vendor/bundle/gems/ffi-1.9.23/ext/ffi_c
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 ffi_c.so ./.gem.20180504-14974-7zh9xs
+/usr/bin/install -c -m 0755 ffi_c.so ./.gem.20180504-24724-v8p0cq
